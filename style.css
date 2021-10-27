@@ -1,0 +1,12 @@
+.Poster img{
+		transition: transform 2s
+}
+.Poster img:hover{
+		transform: scale(1.1);
+		cursor: zoom-out;
+}
+
+.Ps{
+	margin-left: 10%;
+	margin-top: 2%;
+}
